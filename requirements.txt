@@ -1,0 +1,8 @@
+# Requirements for AI Cricket Modeller
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+flask
+joblib
